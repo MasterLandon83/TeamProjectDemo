@@ -1,3 +1,22 @@
 h1 {
     color:blue   /*  test    */
 }
+
+a:hover {
+    background-color: #04AA6D;
+    color: wight;
+  }
+  
+  .previous {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .next {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
