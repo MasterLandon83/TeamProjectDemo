@@ -1,7 +1,6 @@
 body {
   background-color: skyblue;
 }
-
 .title {
     color:rgb(48, 224, 236);
     text-align: center;
@@ -10,13 +9,10 @@ body {
   height: 120px; 
   width:100%;
   background-color: darkblue;
-  border: #ee0000;
-  border-width: 10px;
- 
+  border: 5px solid #333333;
 }
 .links {
   text-align: center;
-  
 }
 .button {
   font: bold 11px Arial;
