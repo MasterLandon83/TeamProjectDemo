@@ -3,12 +3,20 @@ body {
 }
 
 .title {
-    color:blue;
+    color:rgb(48, 224, 236);
     text-align: center;
 }
-
-.footer {
+.header {
+  height: 120px; 
+  width:100%;
+  background-color: darkblue;
+  border: #ee0000;
+  border-width: 10px;
+ 
+}
+.links {
   text-align: center;
+  
 }
 .button {
   font: bold 11px Arial;
