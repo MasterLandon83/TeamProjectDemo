@@ -6,8 +6,8 @@
 }
 .links {
     text-align: center;
-  }
-  .button {
+}
+.button {
     font: bold 11px Arial;
     text-decoration: none;
     background-color: #EEEEEE;
@@ -18,8 +18,11 @@
     border-bottom: 1px solid #333333;
     border-left: 1px solid #CCCCCC;
     margin: 5px;
-  }
-  .title {
+}
+.title {
     color:rgb(48, 224, 236);
     text-align: center;
 }
+body {
+    background-color: skyblue;
+  }
