@@ -21,6 +21,7 @@
 body {
     background-color: skyblue;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   }
   .footer {
     background-color:#CCCCCC;
@@ -31,6 +32,8 @@ body {
     width: 100%;
     border-top: 3px solid #333333;
 =======
+=======
+>>>>>>> Stashed changes
     color: #1b1b32;
     font-family: Helvetica;
     margin: 0;
@@ -184,5 +187,8 @@ body {
     clip: rect(0, 0, 0, 0);
     white-space: nowrap;
     border: 0;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
