@@ -26,3 +26,12 @@
 body {
     background-color: skyblue;
   }
+  .footer {
+    background-color:#CCCCCC;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    border-top: 3px solid #333333;
+  }
