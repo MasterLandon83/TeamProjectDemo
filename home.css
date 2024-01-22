@@ -39,13 +39,14 @@ body {
 }
 .foot {
   text-align: center;
+  position: fixed;
 }
 .welcome {
   
   background-color: rgb(255, 255, 255);
   width: 300px;
   border: 15px solid rgb(13, 0, 128);
-  padding: 50px;
+  padding: 25px;
   margin-top: 50px;
   margin: auto;
 }
