@@ -25,7 +25,7 @@
 }
 body {
     background-color: skyblue;
-  }
+}
 .footer {
     background-color:#CCCCCC;
     position:absolute;
@@ -35,3 +35,10 @@ body {
     width: 100%;
     border-top: 3px solid #333333;
   }
+  .about {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    border: 15px solid rgb(13, 0, 128);
+    padding: 25px;
+    margin: auto;
+}
