@@ -10,6 +10,7 @@ body {
   width:100%;
   background-color: darkblue;
   border: 5px solid #333333;
+  margin-bottom: 50px;
 }
 .links {
   text-align: center;
@@ -38,4 +39,13 @@ body {
 }
 .foot {
   text-align: center;
+}
+.welcome {
+  
+  background-color: rgb(255, 255, 255);
+  width: 300px;
+  border: 15px solid rgb(13, 0, 128);
+  padding: 50px;
+  margin-top: 50px;
+  margin: auto;
 }
