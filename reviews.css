@@ -35,3 +35,18 @@ body {
     width: 100%;
     border-top: 3px solid #333333;
   }
+
+  main {
+    text-align:center ;
+  }
+
+  #name
+  {
+    min-width: 22%;
+    height: 22%;
+  }
+
+  table 
+  {
+    background-color: #EEEEEE;
+  }
