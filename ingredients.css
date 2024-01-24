@@ -35,3 +35,7 @@ body {
     width: 100%;
     border-top: 3px solid #333333;
 }
+img {
+    height :350px;
+    width :350px;
+}
