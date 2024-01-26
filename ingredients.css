@@ -38,4 +38,17 @@ body {
 img {
     height :350px;
     width :350px;
+    display: block;
+    margin-top:100px;
+    margin-left: 50%;
+    margin: auto;
 }
+.info {
+  
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    border: 15px solid rgb(13, 0, 128);
+    padding: 25px;
+    margin-top: 50px;
+    margin: auto;
+  }
